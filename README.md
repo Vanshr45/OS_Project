@@ -14,7 +14,8 @@ An interactive, browser-based educational tool that visually demonstrates core *
 
 ## 📸 Preview
 
-> _Add a screenshot of the app here._
+> <img width="2743" height="1461" alt="image" src="https://github.com/user-attachments/assets/b9192396-6be9-484e-a149-a02bcc1cd76e" />
+
 
 ---
 
