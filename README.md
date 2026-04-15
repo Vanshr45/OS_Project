@@ -10,14 +10,7 @@ An interactive, browser-based educational tool that visually demonstrates core *
 
 **[https://thread-sync-visualizer.vercel.app/](https://thread-sync-visualizer.vercel.app/)**
 
----
-
-## 📸 Preview
-
-> <img width="2743" height="1461" alt="image" src="https://github.com/user-attachments/assets/b9192396-6be9-484e-a149-a02bcc1cd76e" />
-
-
----
+-
 
 ## 🎯 What It Visualizes
 
